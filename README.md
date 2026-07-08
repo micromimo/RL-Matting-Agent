@@ -1,9 +1,10 @@
 # RL-Matting-Agent
-![Rust](https://img.shields.io/badge/Rust-2024__Edition-black?style=flat-square&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Edition__2024-black?style=flat-square&logo=rust&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-v2-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 ![React](https://img.shields.io/badge/React-18%2B-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0%2B-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
-![License: MPL 2.0](https://img.shields.io/badge/License-MPL__2.0-brightgreen)
+![License: MPL 2.0](https://img.shields.io/badge/License-GPL__3.0-brightgreen)
+
 
 <img width="2048" height="1280" alt="UI-1演示" src="https://github.com/user-attachments/assets/81dd8e33-48ab-47c4-9260-f81c0ba536c4" />
 
